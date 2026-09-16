@@ -1,0 +1,23 @@
+# -------------------------------
+# Camera Paramater
+# -------------------------------
+FOCAL_LENGTH: 2565.0
+PITCH: -35.3
+ROLL: 0.0
+
+# -------------------------------
+# Implementation parameters
+# -------------------------------
+RECTIFY_GSD_RATIO: 0.5
+MAX_PIXEL_DISPLACEMENT: 2
+MAX_PYRAMID_LEVEL: 3
+WINDOW_SIZE: 9
+MOTION_SMOOTHING: 9
+
+# -------------------------------
+# Output Parameter
+# -------------------------------
+GSD: 0.5 # (m)
+FPS: 2.0 # (Hz)
+
+
